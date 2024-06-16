@@ -1,4 +1,4 @@
-package com.dsa.dp.factory;
+package com.dsa.dp.creational.factory;
 
 public class Cat implements Pet {
 

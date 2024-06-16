@@ -1,4 +1,4 @@
-package com.dsa.dp.builder;
+package com.dsa.dp.creational.builder;
 
 public interface CarBuilder {
 	public void buildBase();

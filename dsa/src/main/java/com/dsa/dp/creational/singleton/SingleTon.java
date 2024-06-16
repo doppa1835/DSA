@@ -1,4 +1,4 @@
-package com.dsa.dp.singleton;
+package com.dsa.dp.creational.singleton;
 
 public class SingleTon {
 
